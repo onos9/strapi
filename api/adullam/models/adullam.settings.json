@@ -58,6 +58,246 @@
     "email": {
       "type": "email",
       "required": true
+    },
+    "nationality": {
+      "type": "string",
+      "required": true
+    },
+    "profession": {
+      "type": "string",
+      "required": true
+    },
+    "rel_status": {
+      "type": "string",
+      "required": true
+    },
+    "weddate": {
+      "type": "string",
+      "required": true
+    },
+    "spousename": {
+      "type": "string",
+      "required": true
+    },
+    "marriagedate": {
+      "type": "string",
+      "required": true
+    },
+    "spouseagree": {
+      "type": "string",
+      "required": true
+    },
+    "childname": {
+      "type": "string",
+      "required": true
+    },
+    "friendname": {
+      "type": "string",
+      "required": true
+    },
+    "friendrel": {
+      "type": "string",
+      "required": true
+    },
+    "adullaminfo": {
+      "type": "string",
+      "required": true
+    },
+    "havecloserel": {
+      "type": "string",
+      "required": true
+    },
+    "bornagain": {
+      "type": "string",
+      "required": true
+    },
+    "salvbrief": {
+      "type": "string",
+      "required": true
+    },
+    "godsworkings": {
+      "type": "string",
+      "required": true
+    },
+    "callofgod": {
+      "type": "string",
+      "required": true
+    },
+    "intoministry": {
+      "type": "string",
+      "required": true
+    },
+    "spiritgifts": {
+      "type": "string",
+      "required": true
+    },
+    "reason": {
+      "type": "string",
+      "required": true
+    },
+    "churchname": {
+      "type": "string",
+      "required": true
+    },
+    "churchaddress": {
+      "type": "string",
+      "required": true
+    },
+    "pastorname": {
+      "type": "string",
+      "required": true
+    },
+    "pastoremail": {
+      "type": "string",
+      "required": true
+    },
+    "pastorphone": {
+      "type": "string",
+      "required": true
+    },
+    "churchinvolve": {
+      "type": "string",
+      "required": true
+    },
+    "waterbapt": {
+      "type": "string",
+      "required": true
+    },
+    "baptdate": {
+      "type": "string",
+      "required": true
+    },
+    "holyghostbapt": {
+      "type": "string",
+      "required": true
+    },
+    "disability": {
+      "type": "string",
+      "required": true
+    },
+    "nervousill": {
+      "type": "string",
+      "required": true
+    },
+    "anorexia": {
+      "type": "string",
+      "required": true
+    },
+    "diabetesepilepsy": {
+      "type": "string",
+      "required": true
+    },
+    "requiremedic": {
+      "type": "string",
+      "required": true
+    },
+    "specialdiet": {
+      "type": "string",
+      "required": true
+    },
+    "learndisability": {
+      "type": "string",
+      "required": true
+    },
+    "usedilldrug": {
+      "type": "string",
+      "required": true
+    },
+    "treatdrugaddic": {
+      "type": "string",
+      "required": true
+    },
+    "hadsurgery": {
+      "type": "string",
+      "required": true
+    },
+    "pastexpinfluence": {
+      "type": "string",
+      "required": true
+    },
+    "healthissuedesc": {
+      "type": "string",
+      "required": true
+    },
+    "helpfulabilities": {
+      "type": "string",
+      "required": true
+    },
+    "hobbies": {
+      "type": "string",
+      "required": true
+    },
+    "playinstrument": {
+      "type": "string",
+      "required": true
+    },
+    "instrument": {
+      "type": "string",
+      "required": true
+    },
+    "emergcontname": {
+      "type": "string",
+      "required": true
+    },
+    "emergcontrel": {
+      "type": "string",
+      "required": true
+    },
+    "emergphone": {
+      "type": "string",
+      "required": true
+    },
+    "emergaddress": {
+      "type": "string",
+      "required": true
+    },
+    "refonename": {
+      "type": "string",
+      "required": true
+    },
+    "refoneemail": {
+      "type": "string",
+      "required": true
+    },
+    "refonephone": {
+      "type": "string",
+      "required": true
+    },
+    "reftwoname": {
+      "type": "string",
+      "required": true
+    },
+    "reftwoemail": {
+      "type": "string",
+      "required": true
+    },
+    "reftwophone": {
+      "type": "string",
+      "required": true
+    },
+    "programoption": {
+      "type": "string",
+      "required": true
+    },
+    "accomoption": {
+      "type": "string",
+      "required": true
+    },
+    "scholarship": {
+      "type": "string",
+      "required": true
+    },
+    "scholreason": {
+      "type": "string",
+      "required": true
+    },
+    "agree": {
+      "type": "string",
+      "required": true
+    },
+    "admissionnumber": {
+      "type": "string",
+      "required": true
     }
   }
 }
