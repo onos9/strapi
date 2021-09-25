@@ -24,7 +24,7 @@
       "type": "string"
     },
     "dob": {
-      "type": "date",
+      "type": "string",
       "required": true
     },
     "gender": {
